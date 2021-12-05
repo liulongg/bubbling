@@ -9,8 +9,6 @@ public class Controller {
         persion.setName("name");
         persion.setSex("name");
 
-
-        System.out.println(persion.getId());
         System.out.println(persion.getSex());
         System.out.println(persion.getName());
     }
